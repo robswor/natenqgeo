@@ -17,5 +17,5 @@
 	],
 	"url": "https://github.com/robswor/natenqgeo",
 	"manifest": "https://raw.githubusercontent.com/robswor/natenqgeo/master/module.json",
-	"download": "https://raw.githubusercontent.com/robswor/natenqgeo/master/natgeoenq.zip"
+	"download": "https://github.com/robswor/natenqgeo/raw/master/natenqgeo.zip"
 }
