@@ -2,7 +2,7 @@
 	"name": "natenqgeo",
 	"title": "DsN - National Geographic/Enquirer D20",
 	"description": "Adds a dice preset for that juicy NATIONAL GEOGRAPHIC!! roll ",
-	"version": "0.6.22",
+	"version": "0.6.23",
 	"minimumCoreVersion" : "0.7.2",
 	"compatibleCoreVersion" : "0.7.9",
 	"author": "Swordenkainen",
