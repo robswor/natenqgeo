@@ -15,7 +15,7 @@
 	"scripts": [
 		"natenqgeo.js"
 	],
-	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+	"url": "https://github.com/robswor/natenqgeo",
+	"manifest": "https://raw.githubusercontent.com/robswor/natenqgeo/master/module.json",
+	"download": "https://raw.githubusercontent.com/robswor/natenqgeo/master/natgeoenq.zip"
 }
