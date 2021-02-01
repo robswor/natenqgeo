@@ -1,6 +1,7 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addSystem({id: "natenqgeo", name: "NATIONAL GEOGRAPHIC!!!"}, "default");
-	dice3d.addDicePreset({
+    console.log("pre-add-dice");
+    dice3d.addDicePreset({
         type: "d20",
         labels: [
             "modules/natenqgeo/nat_enq.png",
@@ -9,4 +10,5 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         ],
         system: "natenqgeo"
     });
+    console.log("post-add-dice");
 });
