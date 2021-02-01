@@ -1,0 +1,21 @@
+{
+	"name": "natenqgeo",
+	"title": "DsN - National Geographic/Enquirer D20",
+	"description": "Adds a dice preset for that juicy NATIONAL GEOGRAPHIC!! roll ",
+	"version": "0.69",
+	"minimumCoreVersion" : "0.7.2",
+	"compatibleCoreVersion" : "0.7.9",
+	"author": "Swordenkainen",
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"scripts": [
+		"natenqgeo.js"
+	],
+	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
+	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
+	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+}
