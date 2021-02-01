@@ -1,4 +1,5 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
+	dice3d.addSystem({id: "natenqgeo", name: "NATIONAL GEOGRAPHIC!!!"}, false);
 	dice3d.addDicePreset({
     type: "d20",
     labels: [
